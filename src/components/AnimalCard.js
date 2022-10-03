@@ -9,7 +9,7 @@ function AnimalCard({animal}) {
   return (
     <div>
         <div>
-            {/* <img src={animal.image_link} /> */}
+            <img src={animal.image_link} />
         </div> 
         <div>
           <h3>{animal.name}</h3>

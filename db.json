@@ -1,4 +1,5 @@
-{"animals":[
+{
+  "animals": [
     {
       "name": "Emerald Tree Boa",
       "latin_name": "Corallus caninus",
@@ -168,6 +169,12 @@
       "image_link": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Epicrates_subflavus.jpg",
       "id": 10,
       "donation": 0
+    },
+    {
+      "name": "Cheetah",
+      "image_link": "https://upload.wikimedia.org/wikipedia/commons/0/09/TheCheethcat.jpg",
+      "animal_type": "Mammal",
+      "id": 11
     }
   ]
 }
